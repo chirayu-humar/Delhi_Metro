@@ -21,7 +21,7 @@ Javascript
 Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/chirayu-humar/Delhi_Metro.git
 ```
 
 # Contributors
